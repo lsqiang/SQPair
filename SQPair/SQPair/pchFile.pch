@@ -1,0 +1,15 @@
+//
+//  preFile.pch
+//  SQPair
+//
+//  Created by Fly on 15/8/3.
+//  Copyright (c) 2015年 sq. All rights reserved.
+//
+
+#ifndef SQPair_preFile_pch
+#define SQPair_preFile_pch
+
+#define SQLog(...) NSLog(__VA_ARGS__)
+#define WS(weakSelf) __weak typeof(self) weakSelf = self;
+
+#endif

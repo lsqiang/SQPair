@@ -1,0 +1,18 @@
+[{
+    "vcName": "FeedController",
+    "title": "首页",
+    "navTitle": "达人逛街直播",
+    "imageName": "tabbar_feed"
+},
+{
+    "vcName": "FashionistaController",
+    "title": "达人",
+    "navTitle": "达人推荐",
+    "imageName": "tabbar_fashionista"
+},
+{
+    "vcName": "MeController",
+    "title": "我",
+    "navTitle": "我的",
+    "imageName": "tabbar_me"
+}]
